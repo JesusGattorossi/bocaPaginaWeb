@@ -1,0 +1,76 @@
+#element {
+	color: blue;
+	font-family: Roboto serif, sans-serif;
+	font-weight: 900;
+}
+#text{
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#azul{
+	color: blue;
+}
+#azul:hover{
+	color : yellow;
+}
+h2 p {
+	color: blue;
+	font-size: 150%;
+}
+h2 p:hover {
+	color:  yellow;
+		
+}
+h1 b {
+	color: blue;
+	font-size: 300%;
+
+}
+h1 b:hover {
+	color:  yellow;
+}
+#title{
+	color: blue;
+}
+#title:hover{
+	color:  yellow;
+}
+b:hover {
+	color: blue;
+}
+h1 {
+
+font-family: 'Roboto serif', sans-serif; 
+
+}
+a{
+	color: whitesmoke;
+	font-size: 100%;
+}
+
+body{
+	background-color: lightgoldenrodyellow;
+}
+table {
+	background-color: yellow;
+	border: 10 px;
+	margin: 15 px;
+}
+
+
+
+#pagina{
+	color:  green;
+	font-family: cursive;
+}
+#video{
+	font-family: "Lucida Sans", "Lucida Sans Regular";
+
+}
+
+div{
+		background-color:  deepskyblue;
+	}
+#boca {
+	color:  blue;
+}
